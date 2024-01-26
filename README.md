@@ -1,13 +1,10 @@
 # BrainBurst Quiz App
-
 BrainBurst is a simple quiz application built using React. It provides users with a set of questions and multiple-choice answers, allowing them to test their knowledge on various topics.
 
 ## Author
-
 Keshav Kumar
 
 ## Features
-
 - **Quiz Interface:** Users can go through a series of questions presented in a clean and user-friendly interface.
 - **Scoring:** The app keeps track of the user's score as they progress through the quiz.
 - **Immediate Feedback:** Users receive immediate feedback on their selected answers, with correct and incorrect choices highlighted.
@@ -34,5 +31,10 @@ To run the application locally, follow these steps:
 3. Install dependencies: npm install
 4. Start the development server: npm run dev / npm start
 
+### Contributing
+Contributions are welcome! If you find a bug or have an enhancement in mind, feel free to open an issue or submit a pull request.
 
+### License
+This project is licensed under the MIT License.
 
+Feel free to customize this template according to your specific project details. Make sure to replace placeholder URLs, such as the repository link and license information, with your actual project information.
