@@ -29,7 +29,7 @@ The Page component represents the main page of the application, welcoming users 
 
 ###Getting Started
 To run the application locally, follow these steps:
-1. Clone the repository : git clone https://github.com/your-username/brain-burst.git
+1. Clone the repository : git clone https://github.com/keshavkumar143/Quiz-Game.git
 2. cd my-app
 3. Install dependencies: npm install
 4. Start the development server: npm run dev / npm start
