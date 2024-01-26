@@ -1,0 +1,32 @@
+.mainContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Adjust as needed for full viewport height */
+  }
+  
+  .mainContainer h1 {
+    color: white;
+    font-size: 70px;
+    margin-left: 500px;
+  }
+  
+  .mainContainer button {
+    height: 50px;
+    width: 150px;
+    background-color: white;
+    color: rgba(14, 49, 176, 0.71);
+    font-size: larger;
+    margin-top: 20px;
+    margin-left: 480px;
+    cursor: pointer;
+    border: 2px solid black;
+  }
+  
+  .mainContainer button:hover{
+    background-color: rgba(14, 49, 176, 0.71);;
+    color: white;
+    cursor: pointer;
+    border: 1.5px solid black;
+  }

@@ -1,0 +1,13 @@
+*{
+ margin: 0;
+ padding: 0;
+}
+
+body{
+  height: 100vh;
+  font-family: 'Nunito Sans';
+  background-image: url('pic1.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
