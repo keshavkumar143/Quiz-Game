@@ -36,5 +36,3 @@ Contributions are welcome! If you find a bug or have an enhancement in mind, fee
 
 ### License
 This project is licensed under the MIT License.
-
-Feel free to customize this template according to your specific project details. Make sure to replace placeholder URLs, such as the repository link and license information, with your actual project information.
